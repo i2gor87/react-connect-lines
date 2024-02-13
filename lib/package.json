@@ -32,7 +32,7 @@
     "typescript": ">=3.0.0"
   },
   "peerDependencies": {
-    "react": "^17.0.2"
+    "react": "^18"
   },
   "publishConfig": {
     "access": "public"
